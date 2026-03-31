@@ -119,5 +119,11 @@ button:hover {
         padding:0;
         box-sizing: border-box;
     }
+
+    body {
+        background: #0d0d0d;
+        font-family: Arial, sans-serif;
+        color: white;
+    }
 }
 
