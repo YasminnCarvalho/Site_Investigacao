@@ -158,6 +158,11 @@ button:hover {
     display: flex;
     align-items: center;
     padding: 40px;
-}
+    }
+
+    .hero-content h1 {
+    font-size: 48px;
+    }
+
 }
 
