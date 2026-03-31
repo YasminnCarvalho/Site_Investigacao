@@ -251,6 +251,9 @@ textarea {
     margin-bottom: 15px;
 }
 
+.suspeito-info .btn {
+    width: 100%;
+}
 
 
 @keyframes aparecer {
