@@ -133,5 +133,9 @@ button:hover {
         padding: 20px 60px;
         background: #111;
     }
+
+    .header span {
+        color: red;
+    }
 }
 
