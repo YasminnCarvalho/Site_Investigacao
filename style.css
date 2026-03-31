@@ -57,3 +57,12 @@ body {
     gap: 25px;
     margin-bottom: 30px;
 }
+
+.caso-card {
+    background: linear-gradient(180deg, #1a1a1a, #111);
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0,0,0,0.6);
+    transition: 0.4s;
+    position: relative;
+}
