@@ -137,5 +137,11 @@ button:hover {
     .header span {
         color: red;
     }
+
+    .header nav a {
+        margin: 0 10px;
+        color: #ccc;
+        text-decoration: none;
+    }
 }
 
