@@ -192,5 +192,11 @@ button:hover {
     gap: 20px;
     padding: 20px 60px;
     }
+
+    .card {
+    background: #1a1a1a;
+    padding: 10px;
+    border-radius: 8px;
+    }
 }
 
