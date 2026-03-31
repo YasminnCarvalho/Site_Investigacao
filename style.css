@@ -167,5 +167,11 @@ button:hover {
     .hero-content p {
     margin-top: 10px;
     }
+
+    .filtros {
+    display: flex;
+    gap: 10px;
+    padding: 20px 60px;
+    }
 }
 
