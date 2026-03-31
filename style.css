@@ -24,3 +24,8 @@
     max-width: 600px;
     margin-left: 80px;
 }
+
+.content h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
