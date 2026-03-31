@@ -74,9 +74,8 @@ body {
 
 .caso-card img {
     width: 100%;
-    height: 200px;
+    height: 180px;
     object-fit: cover;
-    filter: brightness(0.8);
 }
 
 .caso-info {
