@@ -53,7 +53,7 @@ body {
 
 .casos-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(260px, 320px));
+    grid-template-columns: repeat(2, 300px);
     justify-content: center;
     gap: 25px;
 }
@@ -166,5 +166,9 @@ body {
 
     .casos-section {
         padding: 30px 20px;
+    }
+
+      .casos-grid {
+        grid-template-columns: 1fr;
     }
 }
