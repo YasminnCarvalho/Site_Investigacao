@@ -55,7 +55,7 @@ body {
     display: grid;
     grid-template-columns: repeat(2, 300px);
     justify-content: center;
-    gap: 25px;
+    gap: 50px;
 }
 
 .caso-card {
