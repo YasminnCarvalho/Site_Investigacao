@@ -150,6 +150,38 @@ body {
     justify-content: center;
 }
 
+.input-grupo {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.input-grupo label {
+    margin-bottom: 5px;
+    font-size: 14px;
+    color: #ccc;
+}
+
+.input-grupo input,
+.input-grupo select,
+.input-grupo textarea {
+    padding: 12px;
+    background: #0e0e0e;
+    border: 1px solid #222;
+    color: white;
+    border-radius: 5px;
+    font-family: 'Inter', sans-serif;
+    transition: 0.3s;
+}
+
+.input-grupo input:focus,
+.input-grupo select:focus,
+.input-grupo textarea:focus {
+    outline: none;
+    border: 1px solid red;
+    box-shadow: 0 0 5px rgba(255,0,0,0.3);
+}
+
 .formulario {
     background: linear-gradient(180deg, #1a1a1a, #111);
     padding: 30px;
