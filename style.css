@@ -164,5 +164,8 @@ button:hover {
     font-size: 48px;
     }
 
+    .hero-content p {
+    margin-top: 10px;
+    }
 }
 
