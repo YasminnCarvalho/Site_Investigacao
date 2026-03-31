@@ -208,6 +208,15 @@ textarea {
     max-width: 500px;
 }
 
+.suspeitos-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 280px));
+    justify-content: center;
+    gap: 40px;
+}
+
+
+
 @keyframes aparecer {
     to {
         opacity: 1;
