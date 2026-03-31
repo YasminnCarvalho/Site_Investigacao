@@ -50,3 +50,10 @@ body {
     margin-bottom: 30px;
     letter-spacing: 2px;
 }
+
+.casos-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 25px;
+    margin-bottom: 30px;
+}
