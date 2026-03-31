@@ -202,6 +202,12 @@ textarea {
     margin-top: 10px;
 }
 
+.subtitulo {
+    color: #aaa;
+    margin-bottom: 30px;
+    max-width: 500px;
+}
+
 @keyframes aparecer {
     to {
         opacity: 1;
