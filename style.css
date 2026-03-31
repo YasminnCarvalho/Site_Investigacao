@@ -208,5 +208,13 @@ button:hover {
     .card h3 {
     margin: 10px 0;
     }
+
+    .card button {
+    background: red;
+    border: none;
+    padding: 10px;
+    color: white;
+    cursor: pointer;
+    }
 }
 
