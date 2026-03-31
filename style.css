@@ -235,6 +235,21 @@ textarea {
     filter: brightness(0.8);
 }
 
+.suspeito-info {
+    padding: 15px;
+}
+
+.suspeito-info h3 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+.suspeito-info p {
+    font-size: 14px;
+    color: #aaa;
+    margin-bottom: 15px;
+}
 
 
 
