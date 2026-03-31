@@ -263,7 +263,7 @@ textarea {
 
 .banner {
     position: relative;
-    height: 100vh;
+    height: 70vh;
     overflow: hidden;
 }
 
@@ -316,22 +316,6 @@ button {
 button:hover {
     background-color: #a61b1b;
 }
-
-  .hero {
-    height: 300px;
-    background: url('banner.png') center/cover;
-    display: flex;
-    align-items: center;
-    padding: 40px;
-    }
-
-    .hero-content h1 {
-    font-size: 48px;
-    }
-
-    .hero-content p {
-    margin-top: 10px;
-    }
 
     .filtros {
     display: flex;
