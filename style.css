@@ -145,6 +145,11 @@ body {
     animation-delay: 0.2s;
 }
 
+.form-container {
+    display: flex;
+    justify-content: center;
+}
+
 @keyframes aparecer {
     to {
         opacity: 1;
